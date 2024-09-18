@@ -1,3 +1,3 @@
-const greeting = 'Hello World';
+const module = 'Hello World';
 
-export { greeting };
+export { module };

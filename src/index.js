@@ -1,6 +1,6 @@
 import './reset.css';
 import './style.css';
-import { module } from './module.js';
+import { module } from './module';
 
 console.log(module);
 
