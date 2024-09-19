@@ -1,13 +1,10 @@
-// import styles
-import './reset.css';
+import './reset.css'; // import styles
 import './style.css';
 
-// import scripts
-import { module } from './module';
+import { module } from './module'; // import scripts
 console.log(module);
 
-// import images
-import imagePath from './img/favicon.png';
-const image = document.createElement('image');
-image.src = imagePath;
-document.body.append(image);
+import imagePath from './img/favicon.png'; // import images
+// const image = document.createElement('image');
+// image.src = imagePath;
+// document.body.append(image);
