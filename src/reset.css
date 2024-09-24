@@ -15,14 +15,6 @@
     color: inherit;
 }
 
-/* ALTERNATE BOX MODEL */
-
-*,
-*::before,
-*::after {
-    box-sizing: inherit;
-}
-
 html {
     /* set base font size to 10px */
     font-size: 62.5%;
