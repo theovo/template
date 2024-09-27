@@ -1,8 +1,8 @@
 import './reset.css'; // import styles
 import './style.css';
-
 import { module } from './module'; // import scripts
-console.log(module);
+
+console.log(module); // run scripts
 
 import imagePath from './img/favicon.png'; // import images
 // const image = document.createElement('image');
